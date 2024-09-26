@@ -1,3 +1,3 @@
-Collection of Programming Activity
+Collection of Programming Activity & Coding Lesson 
 W - Week
 P - Problem
