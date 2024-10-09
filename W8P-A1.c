@@ -33,4 +33,17 @@ Write a program in C that uses a loop to display the following output.
 ****************
 *****************
 ******************
+
+i = 0;
+while (i < 20)
+{
+  j = 1;
+  while (j < i)
+  {
+    printf("*");
+    j++;
+  }
+  printf("\n");
+  i++;
+}
 */
