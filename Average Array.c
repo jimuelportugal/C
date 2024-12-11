@@ -14,3 +14,4 @@ int main() {
 
     return 0;
 }
+//Write a program that takes an array of integers with exactly 4 elements and returns the average of those elements. The average should be calculated as the sum of all elements divided by the number of elements.
